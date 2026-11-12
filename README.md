@@ -1,1 +1,1 @@
-# InfraGuard-RAG---Automated-Server-Log-Diagnostics-Remediation
+# AULOGAR---Automated-Server-Log-Diagnostics-Remediation
